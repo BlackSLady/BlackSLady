@@ -37,6 +37,8 @@
   ## Hobbies
   - 🌺 Edición de videos e imágenes
   - 🌺 Arte digital y tradicional
+  ---
+  [![GitHub Streak](https://streak-stats.demolab.com?user=BlackSLady&theme=violet-punch&locale=es&card_width=490)](https://git.io/streak-stats)
   
 </div>
 
