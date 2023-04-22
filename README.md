@@ -1,4 +1,12 @@
-### Hi there 👋
+### ¡Hola! ♐ 👋 Soy BlackSLady 👩‍💻
+
+Actualmente soy estudiante de ingeniería de sistemas
+
+## Mis estudios:
+- Asistente en análisis y desarrollo de software
+- Técnico en sistemas
+
+
 
 <!--
 **BlackSLady/BlackSLady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
