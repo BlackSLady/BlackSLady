@@ -20,7 +20,7 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
          title=[C#]   width= "30" height= "30" alt= "C#" /> 
   
-  ## Herramientas
+  ## Otras herramientas
   -  <img src= "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" 
          title=[Photoshop]  width= "30" height= "30" alt= "Photoshop" /> 
       <img src= "https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" 
@@ -33,6 +33,22 @@
          title=[Bootstrap]  width= "30" height= "30" alt= "Bootstrap" /> 
       <img src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
          title=[Figma]  width= "30" height= "30" alt= "figma" /> 
+  
+   -  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"
+         title= [Blender] width="30" height="30" alt= "Blender"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"
+         title= [Jenkins] width="30" height="30" alt= "jenkins"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg"
+         title= [Ansible] width="30" height="30" alt= "Ansible"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+         title= [Docker] width="30" height="30" alt= "Docker"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"
+         title= [PutTy] width="30" height="30" alt= "PutTy"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
+         title= [VisualStudio] width="30" height="30" alt= "Visual Studio"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+         title= [VisualStudioCode] width="30" height="30" alt= "Visual Studio Code"/>
+  
 
   ## Hobbies
   - 🌺 Edición de videos e imágenes
