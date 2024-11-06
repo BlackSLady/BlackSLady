@@ -7,6 +7,7 @@
   ## Mis estudios:
   - Asistente en análisis y desarrollo de software
   - Técnico en sistemas
+  - Mantenimiento de computadores
 
   ## Habilidades
   - 🌺 Desarrollo web front-end
